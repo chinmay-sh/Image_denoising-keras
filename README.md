@@ -1,4 +1,4 @@
-# Image Denoising using Keras
+# Image Denoising using Autoencoders in Keras
 
 Implementation of Guided project from coursera.
 
